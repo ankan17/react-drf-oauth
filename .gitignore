@@ -1,0 +1,16 @@
+# virtualenv
+bin/
+lib/
+include/
+pyvenv.cfg
+
+# python
+*/__pycache__/*
+*.pyc
+
+# django
+db.sqlite3
+.env
+
+# OSX
+.DS_Store
